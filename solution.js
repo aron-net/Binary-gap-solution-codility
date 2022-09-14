@@ -2,7 +2,7 @@
 // console.log('this is a debug message');
 
 function solution(N) {
-    // write your code in JavaScript (Node.js 6.4.0)
+    // write your code in JavaScript (Node.js 8.9.4)
     let maxGap = 0;
     let curMaxGap = 0;
     let binStr = N.toString(2);
